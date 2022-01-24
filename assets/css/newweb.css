@@ -1,0 +1,1098 @@
+.platform-container {
+    text-align: center;
+    box-shadow: 0 0 10px #00000047 !important;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    
+}
+
+.platform-container img {
+margin: 15px 0;
+}
+
+.platform-container h4 {
+    padding: 10px 0;
+    border-left: 4px solid #11B6CA;
+    cursor: pointer;
+    }
+
+    #uh-platform-sect p a {
+        color: #11B6CA ;
+        font-weight: 900;
+    }
+    
+    /* select flag start */
+
+
+    .intl-tel-input {
+        position: relative;
+        top: -44px;
+        left: 52px;
+        float: left;
+    }
+    
+    input#mobile-number-code {
+        border: none;
+        width: 90px;
+        background-color: transparent;
+        top: 5px;
+        padding-left: 56px;
+    }
+    
+    .f16 .flag {
+        width: 25px !important;
+        height: 25px !important;
+        background: url(../images/indo-au-flag.png) no-repeat !important;
+    }
+    
+    .f16 .au {
+        background-position: 0 -2px !important;
+    }
+    
+    .f16 .in {
+        background-position: 0 -30px !important;
+    }
+    
+    .intl-tel-input .flag-dropdown .selected-flag .down-arrow {
+        top: 9px !important;
+        left: 30px !important;
+    }
+    
+    .intl-tel-input .flag-dropdown .country-list .country-name {
+        display: none;
+    }
+    
+    .intl-tel-input .flag-dropdown .country-list .dial-code {
+        display: none;
+    }
+    
+    .intl-tel-input .flag-dropdown .country-list {
+        left: 0px;
+        overflow-y: auto;
+        top: 30px;
+        width: 65px;
+        background-color: #fff;
+    }
+    
+    input#mobile-number {
+        padding-left: 150px;
+    }
+    
+    input#mobile-number-code:focus-visible {
+        outline: none;
+    }
+    
+    /* select flag closed */
+
+    .form-inner-login-cust::after, .form-inner-login-cust::before{
+        display: none;
+    }
+
+    .form-inner-login-cust .form-inner-login-card {
+        padding: 25px 25px 35px!important;
+    }
+
+   .frame-sms14days {
+        background-color: #158bbb;
+        border-radius: 8px;
+        border: none;
+        height: 830px;
+    }
+
+    section#signupform {
+        background: rgb(17,182,202);
+        background: linear-gradient(
+    132deg
+    , rgba(17,182,202,1) 0%, rgba(27,175,146,1) 100%);
+    }
+
+    .content-width {
+        max-width: 770px;
+        margin: auto;
+    }
+
+    section#home-section-new-update-testi {
+        background-image: url(../images/update-home/testimonial-bg-hw.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    }
+
+
+    section#home-section-new-update-testi div#test-demo {
+        width: 63%;
+        margin: auto;
+    }
+
+
+    section#home-section-new-update-testi div#test-demo .blockquote {
+        color: #fff;
+    }
+
+
+
+.btn-bg-color {
+    background-image: linear-gradient(#1BAF92, #13B5C0, #11B6CA);
+    border: 1px solid #1BAF92;
+    color: #ffffff;
+}
+
+.btn-bg-color:hover {
+    background-image: none;
+    color: #1BAF92;
+}
+
+div#Carousel-blog-nw-home .card-body {
+    display: flex;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding: 0;
+    min-height: 280px;
+}
+
+.blg-img-newh {
+    background-color: #158BBB;
+    padding: 0 15px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    align-items: center;
+    display: flex;
+}
+
+.blg-content-newh p {
+    font-size: 14px;
+}
+
+.blg-content-newh .btn {
+    padding: 2px 13px;
+}
+
+.blg-content-newh {
+    padding: 15px;
+    width: 65%;
+}
+
+i.carousel-control-prev-icon, i.carousel-control-next-icon {
+    background-image: none;
+    border: 1px solid #000;
+    line-height: 31px;
+    border-radius: 50%;
+    font-size: 21px;
+    height: 30px;
+    width: 30px;
+}
+
+.carousel-control-nw-hw .carousel-control-next, .carousel-control-nw-hw .carousel-control-prev {
+    top: unset;
+    bottom: -50px;
+    color: #000;
+    opacity: 1;
+}
+
+.carousel-control-nw-hw {
+    top: -70px;
+}
+
+.carousel-control-nw-hw .carousel-control-prev {
+    justify-content: start;
+}
+
+.carousel-control-nw-hw .carousel-control-next {
+    justify-content: end;
+}
+
+.intl-tel-input-second {
+    top: unset;
+    float: unset;
+    left: unset;
+}
+
+.book-demo-new-home input#mobile_no {
+    padding-left: 0;
+    width: 65%;
+}
+
+.slider-caption h5 {
+    color: #67726C;
+    font-weight: 500;
+}
+
+
+
+.slider-img-1 {
+    width: 46%;
+}
+
+section#up-home-sec-2 {
+    background-image: linear-gradient(#1BAF92, #11B6CA);
+    background-repeat: no-repeat;
+    background-size: 100% 335px;
+}
+
+.font-weight-500 {
+    font-weight: 500;
+}
+
+.col-bg-image {
+    background-color: #DFF5FD;
+    padding: 35px 0;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: center;
+}
+
+.col-bg-image img {
+    max-height: 75px;
+}
+
+.col-bg-content {
+    background-color: #ffffff;
+    padding: 15px;
+    min-height: 230px;
+}
+
+.fr-betterway {
+    background-color: #E1FCFF;
+    width: 50%;
+    margin: auto;
+    position: relative;
+    margin-top: -87px;
+    padding: 15px 0;
+    border-radius: 10px;
+    color: #158BBB;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.slide-controls {
+    position: relative!important;
+    height: 75px;
+    margin: 25px 0;
+}
+
+.slide-controls a {
+    position: relative;
+    opacity: 1;
+    width: 10%;
+}
+
+.importanct-application-col {
+    text-align: center;
+}
+
+.slide-controls i {
+    background-color: #ffffff;
+    color: #707070;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    font-size: 24px;
+    text-align: center;
+    line-height: 35px;
+}
+
+.btn-bg-transparent {
+    border: 1px solid #11B5C6;
+    color: #11B5C6;
+}
+
+.btn-bg-transparent:hover {
+background-color: #11B5C6;
+color: #ffffff;
+}
+
+.book-demo-new-home {
+    border-radius: 10px;
+}
+
+.book-demo-new-home h5 {
+color: #12B4C0 ;
+}
+
+.demo-privacypolicy a {
+    color: inherit;
+}
+
+.book-demo-new-home .flag-container {
+    border-color: #11B5C6;
+    padding-bottom: 8px !important;
+} 
+
+.new-enquri-home-update button {
+    background-image: linear-gradient(to right,#1BAF92, #11B6CA);
+}
+
+
+
+section#up-home-sec-5 {
+    background-color: #12b5c324;
+}
+
+.features-tools-content .nav-link.active, .features-tools-content .show>.nav-link {
+    color: #11B6CA;
+    background-color: transparent;
+    position: relative;
+}
+
+
+.features-tools-content .nav-link.active::after{
+    content: '\f105';
+    font-family: 'Font Awesome 5 Free';
+    color: #ffffff;
+    font-weight: 900;
+    right: 0;
+    position: absolute;
+    height: 35px;
+    width: 35px;
+    background-color: #11B6CA;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 50%;
+    font-size: 20px;
+    top: 1px;
+    border: 1px solid white;
+}
+
+
+div#v-pills-tabContent {
+    width: 70%;
+}
+
+.features-tools-content {
+    width: 30%;
+}
+
+.features-tools-content .nav-link {
+    color: #212322;
+    margin-bottom: 25px;
+}
+
+.new-home-see-all-features .card-body { 
+        align-items: center !important;
+}
+
+.new-home-see-all-features .card-body h5 { 
+color: #11B6CA;
+font-weight: normal;
+}
+
+/* why partnor with us start */
+
+.for-left-dagnol {
+    margin-top: -100px;
+}
+
+.for-right-dagnol {
+    margin-top: 50px;
+}
+
+.shake-hand-continer {
+    align-self: center;
+}
+
+.why-partner-with-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.shake-hand-continer img {
+    width: 125px;
+}
+
+section#uh-platform-sect {
+    background-color: #F5F5F5;
+}
+
+.for-diagnol-box {
+    transform: rotate(45deg);
+}
+
+.quality-score {
+    height: 175px;
+    width: 175px;
+    box-shadow: 0 0 10px #00000047 !important;
+    padding: 5px;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0;
+}
+.quality-score h5 {
+margin-bottom: 0;
+transform: rotate(-45deg);
+text-align: center;
+}
+
+.qulity-col {
+    display: flex;
+    flex-direction: column;
+    margin: 0 10px;
+    justify-content: center;
+}
+
+.quality-score:hover {
+    cursor: pointer;
+    background-color: #11B6CA;
+}
+
+.quality-score:hover h5 {
+color: #ffffff;
+}
+
+.partner-modal .modal-content {
+    border-radius: 8px;
+    border: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border-bottom: 5px solid #11B6CA;
+}
+
+.partner-modal .modal-content p {
+    font-weight: normal;
+}
+
+.partner-modal .modal-content img {
+    width: 100px;
+    margin: 0 auto;
+}
+
+.partner-modal .modal-dialog {
+    width: 300px;
+}
+
+/* why partnor with us closed */
+
+.partonor-col-content {
+    width: 100%;
+}
+
+ul.partnor-points-list {
+    padding-left: 0;
+    list-style: none;
+    border: none;
+    width: 250px !important;
+    flex-direction: column;
+}
+
+ul.partnor-points-list  li a {
+position: relative;
+height: 50px;
+font-size: 14px;
+}
+
+ul.partnor-points-list li a::after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 10px;
+    height: 10px;
+    background-color: transparent;
+    right: 0;
+    top: 5px;
+    border: 1px solid #11B6CA;
+    border-radius: 50%;
+}
+
+ul.partnor-points-list li a.active::after {
+    background-color: #11B6CA;
+}
+
+ul.partnor-points-list li a::before {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 2px;
+    height: 41px;
+    background-color: #11B6CA;
+    right: 4px;
+    bottom: -6px;
+}
+
+.modal-content-mobile {
+    text-align: center;
+    width: 60%;
+    padding: 10px;
+}
+
+.partnor-points-list .nav-item.show .nav-link, .partnor-points-list .nav-link.active {
+    color: #000000 !important;
+    font-weight: bold;
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.partnor-points-list .nav-link {
+    padding: 0;
+    color: #212322;
+}
+
+/* sms and sms service start  */
+
+.sms-sms-service-section-1 h2 {
+    font-weight: 600;
+}
+
+#sms-sms-service-section-2 p {
+    color: #67726C;
+}
+
+.sms-mms-service p {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#carouselcommuicationControls .carousel-control-prev-icon {
+ background-image: url(../assets-api/img/sms/arrow-next.png);
+ transform: rotate(180deg);
+}
+
+#carouselcommuicationControls .carousel-control-next-icon {
+    background-image: url(../assets-api/img/sms/arrow-next.png);
+   }
+
+   .imp-app-sec-img {
+    background-color: #E9F8FF;
+    border-radius: 50%;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+.inner-border-left {
+    border-right: 2px solid #11B6CA;
+    padding-right: 15px;
+    min-height: 250px;
+}
+
+.value-add-btn {
+    background-color: #2cb0b97a;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 5px 25px;
+    color: #212322;
+}
+
+section#sms-sms-service-section-3 {
+    background-color: #158bbb1f;
+    width: 90%;
+    margin-left: auto;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
+
+.benfit-sms-content {
+    text-align: center;  
+}
+
+.benfit-sms-content:hover {
+    display: none;
+}
+
+.benfit-sms-content i {
+    font-size: 40px;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 75px;
+    border-radius: 7px;
+    margin-bottom: 20px;
+    -moz-box-shadow: inset 0 0 10px #0000003b;
+    -webkit-box-shadow: inset 0 0 10px #0000003b;
+    box-shadow: inset 0 0 10px #0000003b;
+}
+
+.benfit-sms-content-hover {
+    text-align: center;
+    border-bottom: 1px solid #3EC3D4;
+    display: none;
+}
+
+.col-benfit-sms-content:hover .benfit-sms-content-hover  {  
+    display: block;
+}
+
+.col-benfit-sms-content:hover .benfit-sms-content  {  
+    display: none;
+}
+
+i.white-icon {
+    background-color: #ffffff;
+    color:#000000;
+}
+
+i.green-icon {
+    background-color: #1BAF92;
+}
+
+i.blue1-icon {
+    background-color: #11B6CA;
+}
+
+i.blue2-icon {
+    background-color: #158BBB;
+}
+
+.benfit-sms-content-hover p {
+    color: #707070;
+}
+
+.carousel-dots .carousel-indicators li {
+    border: 1px solid #11b6ca;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+}
+
+.carousel-dots .carousel-indicators li.active {
+background-color: #11b6ca;
+}
+
+.benfit-sms-content .fa-reply:before {
+    content: "\f3e5" !important;
+}
+
+#carousel-benfit-sms-content .carousel-indicators {
+    bottom: -35px;
+}
+
+#carouselcommuicationControls .carousel-indicators {
+    bottom: -25px;
+}
+
+/* sms and sms service closed  */
+
+
+/* sms broadcast appointemnt reminders start */
+
+.new-pages-section h4 {
+    font-weight: 500;
+}
+
+.green-container-sms-broadcaset {
+    background: rgb(17,182,202);
+    background: linear-gradient( 
+120deg
+ , rgba(17,182,202,1) 0%, rgba(29,164,184,1) 100%);
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    max-width: 600px;
+    align-self: center;
+    z-index: 1;
+    position: absolute;
+}
+
+.shadow-container-sms-broadcaset {
+    border-radius: 10px;
+    padding: 15px;
+    min-width: 800px;
+    margin-left: auto;
+}
+
+.green-container-sms-broadcaset p {
+    font-size: 14px;
+}
+
+.why-sms-brdcst-col {
+    border-bottom-left-radius: 33px;
+    border-top-right-radius: 10px;
+}
+
+div#carousel-why-sms-brdcst-slider .carousel-indicators, 
+#carousel-why-choose-guni-slider .carousel-indicators, 
+#carousel-why-choose-guni-slider-mob .carousel-indicators {
+    bottom: -35px;
+}
+
+.why-sms-brdcst-col {
+    min-height: 305px;
+}
+
+#sms-broadcast-appointment-reminder-4 {
+    background: rgb(17,182,202);
+    background: linear-gradient(
+180deg
+, rgba(17,182,202,1) 0%, rgba(21,139,187,1) 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 450px;
+}
+
+section#sms-broadcast-appointment-reminder-4 h3 {
+    color: #ffffff;
+}
+
+section#sms-broadcast-appointment-reminder-6 {
+    background-color: #F5F5F5;
+}
+
+.why-choose-guni-col.shadow {
+    background-color: #ffffff;
+}
+
+section#sms-customer-scuccess-2 .container {
+    background-image: url(../images/sms-customer-success/service-temp-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+section#sms-customer-eng {
+    background: rgb(64,196,212);
+    background: linear-gradient(
+130deg
+, rgba(64,196,212,0.17690826330532217) 0%, rgba(255,255,255,0.17970938375350143) 100%);
+}
+
+#carousel-sms-broadcast-appointment-reminder-4-mob-2 .carousel-indicators {
+    bottom: -35px;
+}
+
+img.group-text-img {
+    width: 118%;
+    margin-top: -100px;
+    margin-left: -110px;
+}
+
+/* sms broadcast appointemnt reminders closed */
+
+@media screen and (min-width: 992px) and (max-width: 1920px) { 
+
+.pr-lg-0{
+    padding-right: 0;
+}
+
+.pl-lg-0{
+    padding-left: 0;
+}
+
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) { 
+
+    .col-benfit-sms-content h4 {
+        font-size: 18px;
+    }
+
+    .importanct-application-col a {
+        font-size: 12px;
+    }
+
+    .features-tools-content {
+        width: 33%;
+    }
+
+    div#v-pills-tabContent {
+        width: 67%;
+    }
+
+    .slider-caption h1 {
+        font-size: 34px;
+    }
+
+    .sms-broadcast-title {
+        font-size: 28px;
+    }
+
+
+
+    .sms-gunimission {
+        font-size: 20px;
+    }
+
+    .col-bg-content {
+        padding: 15px 8px;
+        min-height: 225px;
+    }
+
+    .col-bg-content p {
+        font-size: 14px;
+    }
+
+    h1.eng-growth-hu {
+        font-size: 38px;
+    }
+
+    h3.unleashpwrsms {
+        font-size: 24px;
+    }
+
+    .book-demo-new-home h5 {
+        font-size: 18px;
+    }
+
+    .why-partner-with-container {
+        justify-content: space-around;
+    }
+
+    .shake-hand-continer img {
+        width: 90px;
+        margin-right: 20px;
+    }
+
+    .quality-score h5 {
+        font-size: 14px;
+    }
+
+    .quality-score {
+        height: 150px;
+        width: 150px;
+    }
+
+    div#Carousel-blog-nw-home .card-body {
+        min-height: 350px;
+    }
+
+    .new-pages-section h1 {
+        font-size: 32px;
+    }
+
+    .shadow-container-sms-broadcaset {
+        min-width: 450px;
+    }
+    
+    .green-container-sms-broadcaset {
+        position: relative;
+    }
+
+
+}
+
+@media (max-width:991px) {
+
+    section#sms-customer-scuccess-2 .container {
+        background-image: none;
+    }
+
+    section#sms-customer-scuccess-2 {
+        background:#f1f1f1
+    }
+
+    section#sms-customer-scuccess-2 h3 {
+        font-size: 24px;
+    }
+
+
+    .why-sms-brdcst-col {
+        margin: 10px 0;
+    }
+
+    .why-choose-guni-col {
+        margin: 20px 0;
+    }
+
+    div#carousel-why-sms-brdcst-slider-mob .carousel-indicators {
+        bottom: -30px;
+    }
+
+    div#carousel-why-sms-brdcst-slider-mob .carousel-indicators {
+        bottom: -30px;
+    }
+
+    .green-container-sms-broadcaset {
+        position: relative;
+        max-width: 90%;
+        margin: auto;
+        margin-top: -200px;
+    }
+    .shadow-container-sms-broadcaset {
+        min-width: 100%;
+        text-align: center;
+        min-height: 700px;
+    }
+
+    .shadow-container-sms-broadcaset img {
+        float: unset !important;
+        margin: auto;
+    }
+
+    
+
+    div#carouselhomeSlidesOnly .carousel-indicators {
+        bottom: -15px;
+    }
+
+    #Carousel-blog-nw-home-mob .carousel-indicators {
+        bottom: -30px;
+    }
+
+    section#sms-sms-service-section-1, section#sms-sms-service-section-6 {
+        background-color: #fcfcfc;
+    }
+
+    section#sms-sms-service-section-3 {
+        width: inherit;
+        margin-left: auto;
+        border-top-left-radius: 100px;
+        border-bottom-left-radius: unset;
+        border-top-right-radius: 100px;
+    }
+
+    .inner-border-left {
+        border-right: none;
+        padding-right: none;
+        min-height: auto;
+    }
+
+    .mobile-thump {
+        width: 75px;
+    }
+
+    .partonor-col-content .tab-pane {
+        text-align: center;
+        font-size: 14px;
+    }
+
+    div#Carousel-blog-nw-home-mob .card-body {
+        display: flex;
+        border: 1px solid #000000;
+        border-radius: 10px;
+        padding: 0;
+        min-height: auto;
+        margin: 10px 0;
+    }
+
+    section#home-section-new-update-testi div#test-demo {
+        width: 100%;
+    }
+
+    section#home-section-new-update-testi {
+        background-size: cover;
+    }
+
+    .carousel-control-nw-hw .carousel-control-next, .carousel-control-nw-hw .carousel-control-prev {
+        margin-bottom: -75px;
+
+    }
+
+    .frame-sms14days {
+        height: 520px;
+        padding: 0 15px
+    }
+
+    .importanct-application-col {
+        margin-bottom: 20px;
+    }
+
+    .slider-img-1 {
+        width: inherit;
+    }
+
+    .for-center-flex {
+        text-align: center;
+    }
+
+    .slider-caption {
+        text-align: center;
+    }
+
+    .fr-betterway {
+        width: 100%;
+    }
+
+    div#carouselExampleSlidesOnly .carousel-item {
+        margin-bottom: 25px;
+    }
+
+    .sms-broadcast-title {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .col-bg-image img {
+        max-height: inherit;
+    }
+
+    section#up-home-sec-2 {
+        background-color: rgb(20 179 182 / 30%);
+    }
+
+    .col-bg-content {
+        min-height: inherit;
+    }
+
+    div#carouselhomecontrols-mob .col-lg-4 {
+        margin: 10px 0;
+    }
+
+    .slide-controls {
+        height: auto;
+        margin: 0;
+    }
+
+    .slide-controls a {
+        width: 100%;
+    }
+
+    .slide-controls .carousel-control-prev {
+        justify-content: start;
+    }
+
+    .slide-controls .carousel-control-next {
+        justify-content: end;
+    }
+
+    #sms-sms-service-section-2 p {
+        text-align: left !important;
+    }
+
+    .new-pages-section-1 {
+        text-align: center;
+    }
+
+    .new-pages-section-1 h1 {
+        font-size: 28px;
+    }
+
+    section#sms-broadcast-appointment-reminder-2 h3 {
+        font-size: 24px;
+    }
+
+    section#sms-broadcast-appointment-reminder-4 h3 {
+        font-size: 16px;
+    }
+
+}
+
+
+@media (max-width:414px) {
+
+    .slider-caption h1 {
+    font-size: 22px;
+}
+
+.slider-caption h5 {
+    font-size: 16px;
+}
+
+h3.unleashpwrsms {
+    font-size: 18px;
+}
+
+.book-demo-new-home h5 {
+    font-size: 14px;
+}
+
+.demo-privacypolicy {
+    font-size: 14px;
+}
+
+.new-enquri-home-update {
+    margin-top: 50px;
+}
+
+.shadow-container-sms-broadcaset {
+    min-height: 540px;
+}
+
+}
+
+@media (max-width:375px) {
+.new-pages-section-1 h1 {
+    font-size: 24px;
+}
+}
