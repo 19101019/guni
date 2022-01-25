@@ -1089,6 +1089,12 @@ padding:1rem 2rem;
     padding: 0rem 1rem;
   }
 
+
+  .main_image img {
+    width: 100%;
+    margin-top: 2rem;
+  }
+
   .alpha_ak {
     display: none;
   }
@@ -1236,9 +1242,9 @@ padding:1rem 2rem;
     margin-bottom: 2rem;
   }
 
-  .four_card {
-    margin-right: 2rem;
-  }
+ 
+  
+
 
   .image_title h1 {
     font-size: 1rem;
@@ -1284,6 +1290,25 @@ padding:1rem 2rem;
     margin-top: 1rem;
   }
 }
+
+
+@media only screen and (max-width: 450px) {
+  .para_container{
+padding: 0rem 4rem;
+
+  }
+  .four_coloumn {
+    display: block;
+    padding: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 1rem 3rem;
+  }
+
+}
+
+
+
 
 @media only screen and (max-width: 380px) {
   .seven_section {
