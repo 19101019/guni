@@ -504,7 +504,6 @@ section#up-home-sec-5 {
     display: inline;
     padding: 50px 10px;
   }
- 
 }
 
 /* ******************* guniwebsite css start ******************************** */
@@ -519,12 +518,12 @@ h3 {
   font-size: 18px;
 }
 
-.para{
+.para {
   padding: 0rem 7rem;
 }
 
-.third_part_title h2{
-  font-size:24px;
+.third_part_title h2 {
+  font-size: 24px;
 }
 
 .heading {
@@ -933,7 +932,6 @@ li {
   display: none !important;
 }
 
-
 /* ******** mobiel second carousel end**************************** */
 
 /* ******** overwrite css start**************************** */
@@ -942,27 +940,26 @@ li {
   overflow: hidden;
   position: relative;
   /* margin-bottom:2rem !important; */
-  border-color: #EBEBEB;
+  border-color: #ebebeb;
   border-radius: 6px;
   box-shadow: 0px 6px 16px rgb(0 0 0 / 8%);
   transition: 0.3s ease;
 }
 
-
-
 .card_after:hover:after {
-  content: '';
+  content: "";
   position: absolute;
   border-radius: 10px;
   left: 0;
   bottom: 0;
   height: 8px !important;
   width: 100%;
-  background: #5ACCDE;
+  background: #5accde;
   transition: 0.3s ease;
 }
 
-.features-tools-content .nav-link.active, .features-tools-content .show>.nav-link {
+.features-tools-content .nav-link.active,
+.features-tools-content .show > .nav-link {
   color: #ffff !important;
   background-color: transparent !important;
   position: relative;
@@ -974,31 +971,30 @@ li {
 }
 
 .features-tools-content .nav-link.active::after {
-color: #3dcee3 !important;
-
+  color: #3dcee3 !important;
 }
 
-.text-center{
+.text-center {
   color: #333 !important;
 }
-.alpha_see_all_features_btn{
+.alpha_see_all_features_btn {
   /* display: none; */
 }
 
-.alpha_button{
+.alpha_button {
   padding: 1rem 2rem;
   border: none;
   border-radius: 10px;
-  font-weight:600 ;
+  font-weight: 600;
   font-size: 20px;
 }
 
-.alpha_btn{
-  display:none;
+.alpha_btn {
+  display: none;
 }
 
-.ak_sk{
-margin-bottom:2rem !important;
+.ak_sk {
+  margin-bottom: 2rem !important;
 }
 
 .fa-angle-right:before {
@@ -1010,23 +1006,14 @@ margin-bottom:2rem !important;
 }
 /* ********overwrite css end**************************** */
 
-
-
 /* ************************six block carousel end **************** */
 
 /* ***** media queries **** */
 @media only screen and (max-width: 1430px) {
-.four_coloumn{
-  padding:1.5rem 5rem;  
+  .four_coloumn {
+    padding: 1.5rem 5rem;
+  }
 }
-
-
-}
-
-
-
-
-
 
 @media only screen and (max-width: 1280px) {
   .four_card {
@@ -1035,30 +1022,26 @@ margin-bottom:2rem !important;
   }
   .four_coloumn {
     padding: 1.5rem 3rem;
-}
+  }
 
-h2{
-  font-size: 24px;
-}
-.seven_section {
-padding:1rem 2rem;
-}
+  h2 {
+    font-size: 24px;
+  }
+  .seven_section {
+    padding: 1rem 2rem;
+  }
 
-
-.para {
-  font-size: 0.8rem;
-  padding: 0rem 2rem;
-}
-
+  .para {
+    font-size: 0.8rem;
+    padding: 0rem 2rem;
+  }
 }
 
 @media only screen and (max-width: 1160px) {
   .seven_section {
     padding: 1rem 1rem;
     margin-top: 1rem;
-    
   }
-
 }
 
 @media only screen and (max-width: 1100px) {
@@ -1067,19 +1050,18 @@ padding:1rem 2rem;
   }
   .para {
     font-size: 1.3rem;
-}
-.third_part_title h2 {
-  font-size: 1.7rem;
-}
+  }
+  .third_part_title h2 {
+    font-size: 1.7rem;
+  }
 
-.five_part_title h2{
-  font-size: 1.2rem;
-}
+  .five_part_title h2 {
+    font-size: 1.2rem;
+  }
 
-.five_part_title p{
-  font-size:0.9rem ;
-}
-
+  .five_part_title p {
+    font-size: 0.9rem;
+  }
 }
 
 @media only screen and (max-width: 770px) {
@@ -1088,7 +1070,6 @@ padding:1rem 2rem;
     margin-top: 1rem;
     padding: 0rem 1rem;
   }
-
 
   .main_image img {
     width: 100%;
@@ -1117,16 +1098,15 @@ padding:1rem 2rem;
     padding: 1rem 3rem;
   }
 
-
   .seven_first_part {
     margin-bottom: 3rem;
-}
+  }
   .boxes1 {
- text-align: left;
+    text-align: left;
     padding: 1rem 2rem;
     margin-bottom: 1rem !important;
     margin-top: 0px;
-}
+  }
 
   .four_card {
     margin-left: 0px;
@@ -1141,10 +1121,9 @@ padding:1rem 2rem;
     display: block;
     text-align: center;
     margin-top: 2rem;
-    
+
     padding: 3rem 9rem;
   }
-
 }
 
 @media only screen and (max-width: 600px) {
@@ -1181,13 +1160,12 @@ padding:1rem 2rem;
     top: -40px;
   }
 
-
   .boxes1 {
     text-align: left;
-       padding: 1rem 2rem;
-       margin-bottom: 1rem !important;
-       margin-top: 0px !important;
-   }
+    padding: 1rem 2rem;
+    margin-bottom: 1rem !important;
+    margin-top: 0px !important;
+  }
 
   .seven_fourth_part {
     grid-column: 1/4;
@@ -1242,10 +1220,6 @@ padding:1rem 2rem;
     margin-bottom: 2rem;
   }
 
- 
-  
-
-
   .image_title h1 {
     font-size: 1rem;
   }
@@ -1259,7 +1233,6 @@ padding:1rem 2rem;
     height: auto;
     width: auto;
     margin-bottom: 2rem;
-
   }
 
   .para {
@@ -1273,7 +1246,6 @@ padding:1rem 2rem;
     margin-right: 0.5rem;
     margin-left: 0.5rem;
   }
-
 
   .four_card {
     margin-left: 0rem;
@@ -1291,11 +1263,9 @@ padding:1rem 2rem;
   }
 }
 
-
 @media only screen and (max-width: 450px) {
-  .para_container{
-padding: 0rem 4rem;
-
+  .para_container {
+    padding: 0rem 4rem;
   }
   .four_coloumn {
     display: block;
@@ -1304,11 +1274,7 @@ padding: 0rem 4rem;
     margin-right: 0px;
     padding: 1rem 3rem;
   }
-
 }
-
-
-
 
 @media only screen and (max-width: 380px) {
   .seven_section {
@@ -1339,10 +1305,9 @@ padding: 0rem 4rem;
   }
 }
 
-
 .features-tools-content .nav-link.active::after {
-  content: '\f105';
-  font-family: 'Font Awesome 5 Free';
+  content: "\f105";
+  font-family: "Font Awesome 5 Free";
   color: #0499c7;
   font-weight: 900;
   right: 0;
@@ -1358,3 +1323,198 @@ padding: 0rem 4rem;
 }
 
 /* ******************* guniwebsite css end ******************************** */
+
+/* ******************* sms bssines  css start ******************************** */
+
+
+
+.text_section {
+  margin-right: 3rem;
+  margin-bottom: 3rem;
+}
+
+.first_part_section {
+  margin-top: 3rem;
+}
+
+.first_para_section h4 {
+  font-size: 25px;
+}
+
+.right_image_section img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.second_part_section {
+  position: relative;
+}
+
+.circle_img_heading {
+  position: absolute;
+}
+
+.main_image_background {
+  width: 100%;
+  height: 100%;
+  margin-top: 3rem;
+}
+
+.second_part_section {
+  margin-top: 3rem;
+  /* background: url("") no-repeat; */
+  /* background-size: cover; */
+  color: white !important;
+  position: relative;
+  /* width: 100%; */
+  /* max-width: 1350px; */
+  width: 1250px;
+  height: 100%;
+}
+.second_part_section_side_blue {
+  background: linear-gradient(#3fb5c3, #1495be);
+  height: 250px;
+  width: 4000px;
+  position: absolute;
+  top: 59px;
+}
+
+.second_part_section h3 {
+  color: #fff;
+}
+.second_part_section > div {
+  padding-right: 10rem;
+}
+
+.second_part_section > div > div > div {
+  margin-top: 5rem !important;
+}
+
+.second_part_sectio_img {
+  width: 5000px;
+  height: 400px;
+  position: absolute;
+}
+.second_part_sectio_img_mobile {
+  display: none;
+}
+
+.second_part_sectio_div_block_2 {
+  display: none;
+}
+
+.heading_para > h3 {
+  font-size: 22px;
+}
+
+.heading_para > p {
+  font-size: 14px;
+}
+
+
+/* ********media query start **************** */
+
+@media only screen and (max-width: 1136px) {
+  .heading_para{
+    margin-right: 1rem;
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  .hh_section{
+    margin-top: 25rem;
+  }
+  
+  .second_part_section_side_blue {
+    display: none;
+  }
+  .second_part_sectio_img {
+    display: none;
+  }
+  .second_part_section_side_blue {
+    display: none;
+  }
+  .first_para_section {
+    text-align: center;
+  }
+  .second_part_sectio_img_mobile {
+    /* margin-top: 8rem !important; */
+    top: 250px;
+    display: block;
+    position: relative;
+    margin: auto;
+    border-radius: 50%;
+    box-shadow: 0px 0px 0px 20px white;
+  }
+
+  .second_part_sectio_img {
+    display: none;
+  }
+
+  second_part_sectio_div_block_1 {
+  }
+  second_part_sectio_div_block_2 {
+    /* display:none; */
+  }
+  .second_conatiner_section {
+    width: 100%;
+    background: linear-gradient(#3fb5c3, #1495be);
+    z-index: -1;
+    margin: 12rem auto 0rem auto !important;
+    text-align: left;
+  }
+
+  .second_part_section {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    background: none;
+    margin-top: 3rem;
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    color: white !important;
+    position: relative;
+    margin-bottom: 15rem;
+  }
+
+  .second_part_sectio_div_block_1 {
+    display: block;
+    position: absolute;
+    /* margin: 0px 2rem; */
+    height: 450px;
+    width: 100%;
+  background: linear-gradient(#3fb5c3, #1495be);
+
+    /* background: orange; */
+    z-index: -1;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .first_part_section {
+    display: block;
+    text-align: center;
+  }
+
+  .right_image_section img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .main_image_background {
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .heading_para{
+    margin-right: 0rem;
+  }
+
+}
+
+/* ********media query end **************** */
+
+/* ******************* sms bssines  css end ******************************** */
