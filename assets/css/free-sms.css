@@ -1363,12 +1363,11 @@ li {
 
 .second_part_section {
   margin-top: 3rem;
-  /* background: url("") no-repeat; */
-  /* background-size: cover; */
+
   color: white !important;
   position: relative;
-  /* width: 100%; */
-  /* max-width: 1350px; */
+  min-height: 70%;
+max-height: 70%;
   width: 1250px;
   height: 100%;
 }
@@ -1384,7 +1383,7 @@ li {
   color: #fff;
 }
 .second_part_section > div {
-  padding-right: 10rem;
+  margin-right: 5rem;
 }
 
 .second_part_section > div > div > div {
@@ -1392,7 +1391,7 @@ li {
 }
 
 .second_part_sectio_img {
-  width: 5000px;
+  width: 1250px;
   height: 400px;
   position: absolute;
 }
@@ -1409,68 +1408,140 @@ li {
 }
 
 .heading_para > p {
-  font-size: 14px;
+  font-size: 12px;
 }
+
+
+/* ******card******************************** */
 
 .first_card_one{
-height: auto !important;
-  /* width: 300px !important; */
-  padding:2rem 0.7rem !important;
-  display: flex;
-    flex-direction: column;
-min-width:200px !important;
-min-height: 300px !important;
-}
-
-.first_card_one img{
-text-align:left !important;
-
-}
-
-.first_card_one h6{
-  padding:0px !important;
-  font-size: 0.6rem !important;
-  text-align: left !important;
-  font-weight: bold !important;
-}
-
-.first_card_one p{
-  margin-top: 10px !important;
-  font-size: 10px !important;
-  text-align: left !important;
-  font-weight: 600 !important;
-}
-
-
-.card{
-  width: 100% !important;
-  min-width: 1000px !important;
+  height: auto !important;
+    /* width: 300px !important; */
+    padding:2rem 0.7rem !important;
+    display: flex;
+      flex-direction: column;
+  min-width:200px !important;
+  min-height: 300px !important;
+  }
   
+
+.first_card_one:hover{
+border-left:10px solid #11B6CA !important;
+border-bottom-left-radius: 50px;
+border-top-right-radius: 50px;
+
+
 }
+
+.ak_alpha{
+  margin-top:-4rem;
+}
+
+
+
+  .first_card_one img{
+  text-align:left !important;
+  
+  }
+  
+  .first_card_one h6{
+    padding:0px !important;
+    font-size: 0.6rem !important;
+    text-align: left !important;
+    font-weight: bold !important;
+  }
+  
+  .first_card_one p{
+    margin-top: 10px !important;
+    font-size: 10px !important;
+    text-align: left !important;
+    font-weight: 600 !important;
+  }
+  
+  
+  .card{
+    width: 100% !important;
+    min-width: 1000px !important;
+    
+  }
+  
+
+
+
+/* ******card end******************************** */
+
+
+
+
+
+
+
 
 
 
 /* ********media query start **************** */
 
-@media only screen and (max-width: 1180px) {
+@media only screen and (max-width: 1140px) {
   .heading_para{
-    margin-right: 1rem;
+    margin-right: 6rem;
   }
-
-  .ak_sahu{
-  padding:0px !important;
-  
+ 
+  .second_part_section > div > div > div {
+    margin-top: 4rem !important;
   }
 }
 
-@media only screen and (max-width: 990px) {
 
-  .card{
-    display: contents !important;
-    }
+@media only screen and (max-width: 1030px) {
+
+.heading_para{
+  margin-right: 7rem;
+}
+
+.ak_sahu{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.second_part_section {
+  /* margin-top: 3rem; */
+  color: white !important;
+  position: relative;
+  min-height: 70%;
+  max-height: 70%;
+  width: 1250px;
+  height: 100%;
+}
+
+.four{
+  margin-top: -20rem;
+}
+}
+
+
+@media only screen and (max-width: 990px)  {
   .hh_section{
     margin-top: 25rem;
   }
+  .card{
+    display: contents !important;
+    }
+
+  .settle_card{
+    margin-top:1rem !important;
+  }
+
+  /* .four{
+    margin-top: 30rem;
+  }
+   */
+
+  .heading_para > h3 {
+    font-size: 22px;
+    transform: translate(0px, -700px);
+    text-align: center;
+}
+
   
   .second_part_section_side_blue {
     display: none;
@@ -1485,6 +1556,7 @@ text-align:left !important;
     text-align: center;
   }
   .second_part_sectio_img_mobile {
+    /* margin-top: 8rem !important; */
     top: 250px;
     display: block;
     position: relative;
@@ -1500,7 +1572,10 @@ text-align:left !important;
   second_part_sectio_div_block_1 {
   }
   second_part_sectio_div_block_2 {
+    /* display:none; */
   }
+
+
   .second_conatiner_section {
     width: 100%;
     background: linear-gradient(#3fb5c3, #1495be);
@@ -1510,9 +1585,12 @@ text-align:left !important;
   }
 
   .second_part_section {
+
     background: none;
     margin-top: 3rem;
     width: 100%;
+  /* max-height:0px; */
+  min-height: 80%;
     height: 100%;
     background-size: 100%;
     color: white !important;
@@ -1523,19 +1601,59 @@ text-align:left !important;
   .second_part_sectio_div_block_1 {
     display: block;
     position: absolute;
+    /* margin: 0px 2rem; */
     height: 450px;
     width: 100%;
   background: linear-gradient(#3fb5c3, #1495be);
 
+    /* background: orange; */
     z-index: -1;
   }
 }
+
+@media only screen and (max-width: 768px) {
+  .heading_para p {
+    /* margin-right: 0px !important; */
+    margin-top: -31px;
+    text-align: left;
+    margin-left: 2rem;
+  
+}
+.second_part_section > div > div > div {
+  margin-top: 4rem !important;
+}
+
+.second_conatiner_section {
+
+  margin: 10rem auto 0rem auto !important;
+
+}
+
+.four{
+  margin-top: -3rem;
+}
+
+
+}
+
 
 @media only screen and (max-width: 600px) {
   .first_part_section {
     display: block;
     text-align: center;
   }
+  .heading_para > h3 {
+    font-size: 18px;
+}
+
+  .heading_para {
+    margin-right: 3rem;
+}
+
+.settle_card_bottom{
+  margin-bottom: 1rem !important;
+}
+
 
   .right_image_section img {
     width: 100%;
@@ -1545,14 +1663,71 @@ text-align:left !important;
 
   .main_image_background {
   }
+  /* .four{
+    margin-top: 30rem;
+  } */
 }
 
-@media only screen and (max-width: 480px) {
+
+@media all and (max-width: 414px){
   .heading_para{
-    margin-right: 0rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
   }
+  .heading_para > p {
+    font-size: 10px;
+}
+
+.first_para_section h4 {
+  font-size: 16px;
+}
+.heading_para > h3 {
+  font-size: 20px;
+transform: translate(-6px, -538px);
+
+text-align: center;
+}
+
+.four{
+  margin-top: 20rem;
+}
+
+.second_conatiner_section {
+
+  margin: 7rem auto 0rem auto !important;
 
 }
+
+.heading_para p {
+ 
+  margin-top: 0px;
+  text-align: left;
+  margin-left: 0rem;
+}
+
+}   
+
+
+/* @media only screen and (max-width: 414px) {
+  
+  .heading_para > h3 {
+    margin-top: 2rem;
+    
+  }
+} */
+
+/* 
+@media only screen and (min-width: 280px) {
+
+  .heading_para > h3 {
+    font-size: 22px;
+    transform: translate(21px, -594px);
+    text-align: center;
+} */
+
+
+    
+
 
 /* ********media query end **************** */
 
