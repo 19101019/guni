@@ -22,7 +22,7 @@ section#up-home-sec-5 {
   font-weight: 800;
 }
 #section1 .col-md-6:first-of-type .col-md-11 {
-  font-size: 18px;
+  font-size: 28px;
   font-weight: 600;
 }
 #section1 button {
@@ -155,7 +155,7 @@ section#up-home-sec-5 {
   text-align: left !important;
 }
 #section3 .row:nth-of-type(2) .col-md-4 p span {
-  font-size: 24px;
+  font-size: 18px;
   color: #11b6ca;
 }
 #section3 .row:nth-of-type(3) p {
@@ -281,6 +281,9 @@ section#up-home-sec-5 {
   font-size: 30px;
   margin-top: 20px;
 }
+#fill:hover{
+background-color: #11b6ca;
+}
 #section6 .col-lg-5 .row:first-of-type p {
   margin-bottom: 0.5rem;
 }
@@ -314,6 +317,15 @@ section#up-home-sec-5 {
 }
 #section6 .mx-2 p {
   font-size: 14px;
+}
+
+
+@media (max-width: 1920px) {
+#section3 .row:nth-of-type(2) .col-md-4 p {
+  font-weight: 500;
+  font-size: 20px;
+  text-align: left !important;
+}
 }
 @media (max-width: 1400px) {
   #section3 .container {
