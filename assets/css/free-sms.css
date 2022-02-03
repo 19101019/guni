@@ -975,9 +975,7 @@ li {
   font-weight: bold !important;
 }
 
-.text-center {
-  color: #ffff !important;
-}
+
 
 .features-tools-content .nav-link.active::after {
   color: #3dcee3 !important;
@@ -986,8 +984,22 @@ li {
 .text-center {
   color: #333 !important;
 }
-.alpha_see_all_features_btn {
-  /* display: none; */
+
+.section-2-1{
+  margin-top:100px
+}
+
+#head{
+  font-size: 28px;
+  font-weight: 600;
+  color: whitesmoke;
+}
+.lead{
+  font-size: 16px;
+}
+
+#fig{
+  transform: scale(0.5);
 }
 
 .alpha_button {
@@ -1006,13 +1018,8 @@ li {
   margin-bottom: 2rem !important;
 }
 
-.fa-angle-right:before {
-  color: #fff;
-}
 
-.fa-angle-left:before {
-  color: #fff;
-}
+
 /* ********overwrite css end**************************** */
 
 /* ************************six block carousel end **************** */
@@ -1468,11 +1475,7 @@ border-top-right-radius: 50px;
   }
   
   
-  .card{
-    width: 100% !important;
-    min-width: 1000px !important;
-    
-  }
+  
   
 
 
