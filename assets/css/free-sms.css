@@ -105,12 +105,7 @@ section#up-home-sec-5 {
 #section2 #row .col-md-3:nth-of-type(4) .circ {
   padding: 45px;
 }
-.carousel-control-prev,
-.carousel-control-next {
-  display: inline-flex;
-  flex-direction: column;
-  position: relative;
-}
+
 .carousel-control-next {
   left: 0px;
 }
@@ -522,10 +517,6 @@ background-color: #11b6ca;
 
 
 
-h2,
-h3 {
-  font-size: 18px;
-}
 
 .para {
   padding: 0rem 7rem;
@@ -981,9 +972,6 @@ li {
   color: #3dcee3 !important;
 }
 
-.text-center {
-  color: #333 !important;
-}
 
 .section-2-1{
   margin-top:100px
@@ -1314,11 +1302,7 @@ li {
     font-size: 22px;
   }
 
-  h6 {
-    padding: 0rem 2rem;
-    font-weight: 500;
-    font-size: 0.7rem;
-  }
+  
 }
 
 .features-tools-content .nav-link.active::after {
@@ -1535,9 +1519,7 @@ border-top-right-radius: 50px;
   .hh_section{
     margin-top: 25rem;
   }
-  .card{
-    display: contents !important;
-    }
+  
 
   .settle_card{
     margin-top:1rem !important;
